@@ -1,0 +1,6 @@
+#Wed May 20 13:42:49 PDT 2020
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=Fond size

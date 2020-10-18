@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Test&apos; to &apos;test&apos;&#x0D;&#x0A;- Original project: &apos;AssignmentPropretiesFile&apos;&#x0D;&#x0A;- Original element: &apos;AssignmentPropretiesFile/src/Test&apos;&#x0D;&#x0A;- Renamed element: &apos;AssignmentPropretiesFile/src/test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Test&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Test" name="test" qualified="false" references="true" stamp="1590255064715" textual="false" version="1.0"/>
+</session>

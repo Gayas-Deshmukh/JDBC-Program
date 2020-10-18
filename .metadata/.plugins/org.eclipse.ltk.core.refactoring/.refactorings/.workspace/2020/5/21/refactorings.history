@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PropertyFile&apos; to &apos;PropertiesFiles&apos;" description="Rename resource &apos;PropertyFile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PropertyFile" name="PropertiesFiles" stamp="1590121390487" updateReferences="true"/>
+</session>
